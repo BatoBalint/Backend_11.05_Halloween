@@ -1,0 +1,9 @@
+{
+    "name": "petrik/batobalint",
+    "autoload": {
+        "psr-4": {
+            "Petrik14s\\Batobalint\\Halloween\\": "src/"
+        }
+    },
+    "require": {}
+}
