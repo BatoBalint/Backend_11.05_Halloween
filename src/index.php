@@ -8,6 +8,7 @@
   $l2 = new Lako('Feri');
 
   $ido = new DateTime();
+  $kacsa;
 
   $e1 = new Esemeny('szellemezes', $l1, $ido);
   $e1->addPeople($l2);
